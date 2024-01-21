@@ -1,6 +1,6 @@
 import telebot
 from data import load_user_data, save_user_data
-from secret_santa import welcome_message, shuffle_users
+from secret import welcome_message, shuffle_users
 
 # todo: вставить свой токен
 TOKEN = "5580662928:AAGQOrGwEU9lIwCxpNyR8BLz0AmnwZCW1eQ"
